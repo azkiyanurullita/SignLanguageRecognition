@@ -1,4 +1,4 @@
-# SignLanguageRecognition
+# Sign Language Recognition
 
 Sign Language Recognition merupakan pengenlana bahasa isyarat SIBI dengan python dan gesture recognition. Pada aplikasi ini dapat dilakukan pembuatan bahasa isyarat baru, pengenalan setiap huruf bahasa isyarat, pengenalan huruf bahasa isyarat dan diubah menjadi kalimat, serta melakukan export kalimat tersebut menjadi text.
 
